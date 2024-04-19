@@ -9,9 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Welcome, This is basically a even and odd BCD counter .
-If input 1 is high the even counter is on, 
-and if input 2 is high odd counter is on. 
+Welcome, This is basically a even and odd BCD counter:-
+*If input 1 is high, the even counter is on, 
+*If input 2 is high, the odd counter is on. 
 
 ## How to test
 
