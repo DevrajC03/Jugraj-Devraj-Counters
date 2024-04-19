@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Welcome, This is basically a even and odd BCD counter input 1 is high the even counter is on, if input 2 is high odd counter is on. 
 
 ## How to test
 
-Explain how to use your project
+We can test it by givin
 
 ## External hardware
 
